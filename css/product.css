@@ -119,3 +119,19 @@
     background: #383838;
     color: #fff;
 }
+
+/* Description Section Attributes */
+.detail-des {
+    padding: 0 10vw;
+    text-transform: capitalize;
+}
+
+.heading {
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.des {
+    color: #383838;
+    line-height: 25px;
+}
